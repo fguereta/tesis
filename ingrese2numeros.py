@@ -25,10 +25,6 @@ while(op!=0):
         res=(a*b)
         print 'el resultado es: ',res
     
-    #print '1-sumar'
-    #print '2-restar'
-    #print '3-dividir'
-    #print '4-multiplicar'
-    #op=input('ingrese la opcion que desea realizar: ')    
+   
     
 print 'COMO NO SOMOS LOS UNICOS, DECIDIMOS SER LOS MEJORES'
