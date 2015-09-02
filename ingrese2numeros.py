@@ -8,6 +8,7 @@ while(op!=0):
     print '2-restar'
     print '3-dividir'
     print '4-multiplicar'
+    print '0-salir'
     
     op=input('ingrese la opcion que desea realizar: ')
     
@@ -23,11 +24,11 @@ while(op!=0):
     if(op==4):
         res=(a*b)
         print 'el resultado es: ',res
-        
-    print '1-sumar'
-    print '2-restar'
-    print '3-dividir'
-    print '4-multiplicar'
-    op=input('ingrese la opcion que desea realizar: ')    
     
-
+    #print '1-sumar'
+    #print '2-restar'
+    #print '3-dividir'
+    #print '4-multiplicar'
+    #op=input('ingrese la opcion que desea realizar: ')    
+    
+print 'COMO NO SOMOS LOS UNICOS, DECIDIMOS SER LOS MEJORES'
