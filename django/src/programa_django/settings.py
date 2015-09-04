@@ -87,8 +87,8 @@ DATABASES = {
         #'NAME': os.path.join(BASE_DIR, 'db.postgresql_psycopg2'),
         'NAME': 'tesis',
         'USER': 'postgres',
-        'PASSWORD': 'programacion.13',
-        'HOST':'192.168.1.38',
+        'PASSWORD': '123456',
+        'HOST':'127.0.0.1',
         'PORT':'5432',
         
         
